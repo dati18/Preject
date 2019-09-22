@@ -1,0 +1,17 @@
+NUMBER 1 RESTAURANT IN DA WORLD
+ 
+*************************
+ 
+____FOOD_________________Price_________________
+b1. Bier            ----  4.00€ ---- Alcohol: true
+b2. Soda            ----  3.00€ ---- Alcohol: false
+s1. French Fries    ----  3.50€ ---- Vegan friendly: true
+m1. Schnitzel       ---- 12.50€ ---- Vegan friendly: false
+                                         Tax: 4.37€
+                                         Total: 23.00€
+                                         Tips: 
+ 
+ 
+Thank you
+ 
+*************************

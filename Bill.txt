@@ -1,0 +1,20 @@
+NUMBER 1 RESTAURANT IN DA WORLD
+ 
+*************************
+ 
+Sun Sep 22 03:12:05 CEST 2019
+ 
+____FOOD_________________Price_________________
+m1. Schnitzel       ---- 12.50€ ---- Vegan friendly: false
+s1. French Fries    ----  3.50€ ---- Vegan friendly: true
+b1. Bier            ----  4.00€ ---- Alcohol: true
+d1. Tiramisu        ----  5.50€ ---- Vegan friendly: false
+b2. Soda            ----  3.00€ ---- Alcohol: false
+b2. Soda            ----  3.00€ ---- Alcohol: false
+                                         Tax: 5.99€
+                                         Total: 31.50€
+ 
+ 
+Thank you
+ 
+*************************
